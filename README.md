@@ -1,5 +1,7 @@
 # Aquaculture Mapping: Detecting and Classifying Aquaculture Ponds using Deep Learning
 
+Managing aquaculture ponds is vital for environmental monitoring and conservation. This tutorial presents how to leverage satellite imagery and semantic segmentation models to detect and map aquaculture ponds based on production intensity.
+
 Author(s):
 * Joshua Cortez, Thinking Machines Data Science
   * Email: joshuacortez@thinkingmachin.es
