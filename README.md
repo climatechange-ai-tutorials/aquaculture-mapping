@@ -35,7 +35,7 @@ Usage of this tutorial is subject to the MIT License.
 ## Cite
 
 ### Plain Text
-Cortez, J., & Nacpil, J. C. (2023). Aquaculture Mapping: Detecting and Classifying Aquaculture Ponds using Deep Learning [Tutorial]. In NeurIPS 2023. Climate Change AI. https://doi.org/10.5281/zenodo.11584995
+Cortez, J., & Nacpil, J. C. (2023). Aquaculture Mapping: Detecting and Classifying Aquaculture Ponds using Deep Learning [Tutorial]. In Conference on Neural Information Processing Systems. Climate Change AI. https://doi.org/10.5281/zenodo.11584995
 
 ### BibTeX
 
@@ -47,7 +47,7 @@ Cortez, J., & Nacpil, J. C. (2023). Aquaculture Mapping: Detecting and Classifyi
   organization={Climate Change AI},
   type={Tutorial},
   doi={https://doi.org/10.5281/zenodo.11584995},
-  booktitle={NeurIPS 2023},
+  booktitle={Conference on Neural Information Processing Systems},
   howpublished={\url{https://github.com/climatechange-ai-tutorials/aquaculture-mapping}}
 }
 ```
